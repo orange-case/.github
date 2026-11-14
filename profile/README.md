@@ -30,3 +30,7 @@ Extended challenges (cardinality bomb, hostile Wi-Fi, clock-skewed controllers, 
 through **stowaway**, a synthetic load CLI in development.
 
 Coming to **KubeCon + CloudNativeCon Europe 2027** in Barcelona.
+
+---
+
+A project by [schrottner.at](https://schrottner.at) · [Website](https://orange-case.github.io)
