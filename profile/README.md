@@ -24,6 +24,7 @@ OpenTelemetry data, and every chaos challenge is switched live through OpenFeatu
 
 - **Swing-to-screen latency:** from a knock-out to the death event in your UI.
 - **Million-span match:** one match, one trace, about a million spans.
+- **The Game Master's Cut:** an AI game master bends the rules mid-match. One prompt, your AI assistant: what did it do, and why?
 
 Extended challenges (cardinality bomb, hostile Wi-Fi, clock-skewed controllers, all-signals correlation) run
 through **stowaway**, a synthetic load CLI in development.
