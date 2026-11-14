@@ -23,7 +23,7 @@ OpenTelemetry data, and every chaos challenge is switched live through OpenFeatu
 ## The challenges
 
 1. **How fast is a knock-out?**
-2. **How heavy is one match?**
+2. **How deep can you go?**
 3. **What did the game master do?**
 
 More is coming, and you will be able to test against it before you ever see the case.
