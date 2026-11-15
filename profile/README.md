@@ -22,7 +22,7 @@ OpenTelemetry data, and every chaos challenge is switched live through OpenFeatu
 
 ## The challenges
 
-1. **How fast is a knock-out?**
+1. **Can you see the swing?**
 2. **How deep can you go?**
 3. **What is happening?**
 
