@@ -18,7 +18,7 @@ OpenTelemetry data, and every chaos challenge is switched live through OpenFeatu
 |---|---|
 | [JoustMania](https://github.com/orange-case/JoustMania) | The game and its services: OpenTelemetry for all signals, OpenFeature/flagd as the live control plane, an AI agent that tunes the game through flags. |
 | [orange-case.github.io](https://github.com/orange-case/orange-case.github.io) | The website. |
-| [kubecon-material](https://github.com/orange-case/kubecon-material) | Talk and conference material. |
+| [slides](https://github.com/orange-case/slides) | Talk decks, one per talk, [published on GitHub Pages](https://orange-case.github.io/slides/). |
 
 ## The challenges
 
